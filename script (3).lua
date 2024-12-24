@@ -1,3 +1,1 @@
-getgenv().identifyexecutor = function(parameters)
-    
-end
+print("hi")
